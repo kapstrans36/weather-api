@@ -88,4 +88,7 @@ class mySwaggerGetView(APIView):
 
     def get(self, request):
         return Response({'message':'Hello Swagger'})
+    
+    def index(request):
+        
         
