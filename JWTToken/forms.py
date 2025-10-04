@@ -9,3 +9,5 @@ class RegisterForm(UserCreateForm):
         model = User
         fields = ['username', 'email', 'password']
         
+        poojs
+        
